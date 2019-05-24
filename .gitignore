@@ -1,0 +1,8 @@
+*.idea
+*.pyc
+*.png
+*.cpython-36.pyc
+*.xml
+__pycache__
+Project_file_numdiff\__pycache__
+Project_file_numdiff\.idea
